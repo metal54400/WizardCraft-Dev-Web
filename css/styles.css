@@ -1,0 +1,130 @@
+header{background-color: #2e2e2e;
+    text-align: center;
+    padding: 10px;}
+main{background-color: dimgrey;
+    padding: 10px;
+}
+erreur{
+    color: #ffff;
+   background-color: #2e2e2e;
+}
+
+button{
+    color: #ffffff;
+    background-color: #545457;
+}
+/* Style the navigation container */
+nav {
+    background-color: #333; /* Dark background for the nav */
+    padding: 10px; /* Some padding around the nav */
+    
+}
+
+/* Style the links inside the nav */
+nav a {
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline from links */
+    padding: 10px 20px; /* Add space around the links */
+    margin: 0 10px; /* Space between links */
+    display: inline-block; /* Make the links inline-block for horizontal layout */
+    font-size: 16px; /* Set the font size */
+    border-radius: 5px;
+    background-color: #262525; /* Darker background on hover */
+    text-align: center; /* Center the nav items */
+
+
+
+}
+li{
+    text-align: center; /* Center the nav items */
+    display: inline-block;
+}
+
+/* Hover effect for links */
+nav a:hover {
+    background-color: #575757; /* Darker background on hover */
+    border-radius: 5px; /* Rounded corners for the hover effect */
+}
+
+/* Style for the images inside the links */
+nav a img {
+    vertical-align: middle; /* Align the image in the middle of the text */
+    margin-right: 8px; /* Space between the image and the text */
+}
+
+footer {
+    
+    padding: 10px;
+    background-color: #838383;
+    }
+
+    body{
+        background-color: black;
+    }
+h1{color: #ffff; padding: 10px;
+   }
+
+p{color: #ffff;
+    padding: 10px;}
+
+
+
+
+#metal{
+    display: inline-block;
+    margin: 5px;
+    background-color: #2b2b2b;
+    border-radius: 10px;
+    padding: 10px;
+    width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.metal{
+    display: block;
+    margin: 0 auto;
+    max-width: 5000px;
+    border-radius: 5px;
+    width: 1200px;
+    height: 120px;
+    overflow: hidden;
+    text-align: center;
+}
+
+#metal2{
+    display: inline-block;
+    margin: 5px;
+    background-color: #2b2b2b;
+    border-radius: 10px;
+    padding: 10px;
+    width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+#Année{
+    display: inline-block;
+    margin: 5px;
+    background-color: #2b2b2b;
+    border-radius: 10px;
+    padding: 10px;
+    width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+#staff{
+    display: inline-block;
+    margin: 5px;
+    background-color: #2b2b2b;
+    border-radius: 10px;
+    padding: 10px;
+    width: 2000px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
